@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Website revamp concept preview</title>
+  <desc id="desc">An original before and after website redesign comparison.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#141526"/>
+      <stop offset="1" stop-color="#262625"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7b9cff"/>
+      <stop offset="1" stop-color="#3f6bf1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <circle cx="970" cy="620" r="300" fill="#4f7dff" opacity=".1"/>
+  <text x="72" y="82" fill="#9aa5bb" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3">WEBSITE REVAMP</text>
+  <text x="72" y="124" fill="#f8f3ea" font-family="Arial,sans-serif" font-size="31" font-weight="700">From crowded to clear.</text>
+  <rect x="918" y="69" width="204" height="26" rx="13" fill="#242423" opacity=".86"/>
+  <text x="949" y="87" fill="#dbc7b7" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">CONCEPT PREVIEW</text>
+  <rect x="72" y="168" width="474" height="516" rx="25" fill="#151b28" stroke="#fff" stroke-opacity=".11"/>
+  <text x="99" y="208" fill="#8d97aa" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">BEFORE</text>
+  <rect x="99" y="230" width="420" height="421" rx="12" fill="#e6e6e2"/>
+  <rect x="99" y="230" width="420" height="54" fill="#2e3440"/>
+  <rect x="119" y="247" width="86" height="18" fill="#fafafa" opacity=".82"/>
+  <g fill="#858a94">
+    <rect x="300" y="251" width="42" height="7" rx="3"/>
+    <rect x="353" y="251" width="42" height="7" rx="3"/>
+    <rect x="406" y="251" width="42" height="7" rx="3"/>
+    <rect x="459" y="251" width="42" height="7" rx="3"/>
+  </g>
+  <rect x="118" y="305" width="382" height="116" fill="#b7bbc0"/>
+  <rect x="136" y="326" width="236" height="12" fill="#525762"/>
+  <rect x="136" y="348" width="329" height="8" fill="#727783"/>
+  <rect x="136" y="365" width="302" height="8" fill="#727783"/>
+  <rect x="136" y="387" width="96" height="20" fill="#555b66"/>
+  <g fill="#c8cacb">
+    <rect x="118" y="440" width="118" height="88"/>
+    <rect x="250" y="440" width="118" height="88"/>
+    <rect x="382" y="440" width="118" height="88"/>
+  </g>
+  <g fill="#777c85">
+    <rect x="131" y="456" width="80" height="7" rx="3"/>
+    <rect x="263" y="456" width="80" height="7" rx="3"/>
+    <rect x="395" y="456" width="80" height="7" rx="3"/>
+  </g>
+  <rect x="118" y="551" width="382" height="19" fill="#a9acae"/>
+  <rect x="118" y="583" width="288" height="7" rx="3" fill="#9c9fa2"/>
+  <rect x="118" y="600" width="344" height="7" rx="3" fill="#b2b4b6"/>
+  <rect x="589" y="138" width="539" height="546" rx="25" fill="#343431" stroke="#dbc7b7" stroke-opacity=".25"/>
+  <text x="617" y="182" fill="#dbc7b7" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">AFTER</text>
+  <rect x="617" y="205" width="483" height="446" rx="15" fill="#0d1423"/>
+  <rect x="640" y="228" width="437" height="40" rx="11" fill="#3c3b38"/>
+  <rect x="659" y="242" width="77" height="11" rx="5" fill="url(#accent)"/>
+  <g fill="#92a0b9">
+    <rect x="866" y="245" width="34" height="5" rx="3"/>
+    <rect x="914" y="245" width="34" height="5" rx="3"/>
+    <rect x="962" y="245" width="34" height="5" rx="3"/>
+  </g>
+  <rect x="1012" y="237" width="47" height="22" rx="11" fill="#4f7dff"/>
+  <rect x="640" y="289" width="437" height="179" rx="17" fill="#111d34"/>
+  <circle cx="1017" cy="332" r="104" fill="#4f7dff" opacity=".18"/>
+  <text x="669" y="337" fill="#7b9cff" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">CLEARER EXPERIENCE</text>
+  <rect x="669" y="359" width="229" height="15" rx="7" fill="#f8f3ea"/>
+  <rect x="669" y="384" width="324" height="7" rx="4" fill="#9da9c0" opacity=".55"/>
+  <rect x="669" y="401" width="279" height="7" rx="4" fill="#9da9c0" opacity=".4"/>
+  <rect x="669" y="426" width="108" height="27" rx="14" fill="url(#accent)"/>
+  <g>
+    <rect x="640" y="488" width="134" height="134" rx="16" fill="#3c3b38"/>
+    <rect x="789" y="488" width="134" height="134" rx="16" fill="#3c3b38"/>
+    <rect x="938" y="488" width="139" height="134" rx="16" fill="#3c3b38"/>
+    <circle cx="669" cy="517" r="13" fill="#4f7dff" opacity=".72"/>
+    <circle cx="818" cy="517" r="13" fill="#54d9ff" opacity=".6"/>
+    <circle cx="967" cy="517" r="13" fill="#7b9cff" opacity=".62"/>
+    <rect x="660" y="546" width="76" height="7" rx="4" fill="#f8f3ea" opacity=".76"/>
+    <rect x="809" y="546" width="76" height="7" rx="4" fill="#f8f3ea" opacity=".76"/>
+    <rect x="958" y="546" width="82" height="7" rx="4" fill="#f8f3ea" opacity=".76"/>
+    <rect x="660" y="567" width="92" height="5" rx="3" fill="#99a5bb" opacity=".34"/>
+    <rect x="809" y="567" width="92" height="5" rx="3" fill="#99a5bb" opacity=".34"/>
+    <rect x="958" y="567" width="96" height="5" rx="3" fill="#99a5bb" opacity=".34"/>
+  </g>
+</svg>

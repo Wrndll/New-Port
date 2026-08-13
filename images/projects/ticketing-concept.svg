@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Ticketing system concept preview</title>
+  <desc id="desc">An original concept interface with a support ticket queue, conversation panel, and response status.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#3a3936"/>
+      <stop offset="1" stop-color="#262625"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#d49b7c"/>
+      <stop offset="1" stop-color="#ad7050"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <circle cx="975" cy="105" r="235" fill="#ad7050" opacity=".12"/>
+  <rect x="74" y="60" width="1052" height="630" rx="28" fill="#30302f" stroke="#dbc7b7" stroke-opacity=".2"/>
+  <rect x="74" y="60" width="1052" height="68" rx="28" fill="#373735"/>
+  <circle cx="110" cy="94" r="6" fill="#ff7c90"/>
+  <circle cx="133" cy="94" r="6" fill="#ffd36c"/>
+  <circle cx="156" cy="94" r="6" fill="#82a88f"/>
+  <text x="204" y="101" fill="#f8f3ea" font-family="Arial,sans-serif" font-size="18" font-weight="700">Support Desk</text>
+  <rect x="94" y="154" width="284" height="511" rx="18" fill="#343431"/>
+  <text x="119" y="194" fill="#dbc7b7" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">TICKET QUEUE</text>
+  <rect x="118" y="215" width="236" height="43" rx="12" fill="#4b443f"/>
+  <circle cx="140" cy="236" r="6" fill="#d49b7c"/>
+  <rect x="159" y="229" width="92" height="7" rx="4" fill="#f8f3ea" opacity=".8"/>
+  <rect x="159" y="243" width="61" height="5" rx="3" fill="#dbc7b7" opacity=".45"/>
+  <g fill="#3c3b38">
+    <rect x="118" y="272" width="236" height="72" rx="12"/>
+    <rect x="118" y="356" width="236" height="72" rx="12"/>
+    <rect x="118" y="440" width="236" height="72" rx="12"/>
+    <rect x="118" y="524" width="236" height="72" rx="12"/>
+  </g>
+  <g fill="#f8f3ea" opacity=".72">
+    <rect x="142" y="292" width="122" height="7" rx="4"/>
+    <rect x="142" y="376" width="148" height="7" rx="4"/>
+    <rect x="142" y="460" width="110" height="7" rx="4"/>
+    <rect x="142" y="544" width="135" height="7" rx="4"/>
+  </g>
+  <g fill="#dbc7b7" opacity=".32">
+    <rect x="142" y="309" width="77" height="5" rx="3"/>
+    <rect x="142" y="393" width="91" height="5" rx="3"/>
+    <rect x="142" y="477" width="68" height="5" rx="3"/>
+    <rect x="142" y="561" width="85" height="5" rx="3"/>
+  </g>
+  <rect x="404" y="154" width="698" height="511" rx="18" fill="#353432"/>
+  <text x="436" y="195" fill="#f8f3ea" font-family="Arial,sans-serif" font-size="22" font-weight="700">Unable to access team workspace</text>
+  <rect x="946" y="174" width="125" height="32" rx="16" fill="#486c5a"/>
+  <circle cx="969" cy="190" r="5" fill="#82a88f"/>
+  <text x="983" y="195" fill="#cfe1d6" font-family="Arial,sans-serif" font-size="12">In progress</text>
+  <line x1="436" y1="224" x2="1068" y2="224" stroke="#dbc7b7" stroke-opacity=".14"/>
+  <rect x="436" y="252" width="410" height="82" rx="18" fill="#49423d"/>
+  <rect x="460" y="274" width="217" height="7" rx="4" fill="#f8f3ea" opacity=".72"/>
+  <rect x="460" y="292" width="335" height="6" rx="3" fill="#dbc7b7" opacity=".35"/>
+  <rect x="460" y="308" width="280" height="6" rx="3" fill="#dbc7b7" opacity=".24"/>
+  <rect x="653" y="362" width="415" height="105" rx="18" fill="url(#blue)"/>
+  <rect x="678" y="389" width="213" height="7" rx="4" fill="#fff" opacity=".86"/>
+  <rect x="678" y="408" width="346" height="6" rx="3" fill="#fff" opacity=".55"/>
+  <rect x="678" y="424" width="295" height="6" rx="3" fill="#fff" opacity=".4"/>
+  <rect x="436" y="507" width="632" height="115" rx="16" fill="#292928" stroke="#dbc7b7" stroke-opacity=".18"/>
+  <text x="462" y="539" fill="#dbc7b7" font-family="Arial,sans-serif" font-size="13">Write a clear response…</text>
+  <rect x="907" y="568" width="133" height="36" rx="18" fill="url(#blue)"/>
+  <text x="943" y="591" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="700">Send reply</text>
+  <rect x="898" y="82" width="194" height="24" rx="12" fill="#242423" opacity=".86"/>
+  <text x="926" y="99" fill="#dbc7b7" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">CONCEPT PREVIEW</text>
+</svg>

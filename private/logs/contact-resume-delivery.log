@@ -1,0 +1,2 @@
+[2026-07-27T10:54:39+02:00] request=7fbe1723cbe2 type=RuntimeException message=Automatic resume delivery failed after a contact submission. file=contact.php line=83
+[2026-07-27T11:06:24+02:00] request=0628a5a2bacd type=RuntimeException message=Automatic resume delivery failed after a contact submission. file=contact.php line=83

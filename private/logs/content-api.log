@@ -1,0 +1,1 @@
+[2026-08-13T11:06:57+02:00] request=00f80d829136 type=PDOException message=SQLSTATE[HY000] [1049] Unknown database 'hw20_db' file=bootstrap.php line=397

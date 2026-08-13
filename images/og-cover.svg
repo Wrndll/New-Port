@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Wrandell I. Almeda — Technical Support Engineer</title>
+  <desc id="desc">A dark technical portfolio cover with the blue and silver WA monogram.</desc>
+  <defs>
+    <radialGradient id="glow" cx=".84" cy=".15" r=".7">
+      <stop stop-color="#3874ff" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#070a11" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#62a9ff"/>
+      <stop offset=".5" stop-color="#3874ff"/>
+      <stop offset="1" stop-color="#202dff"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#858a93"/>
+      <stop offset="1" stop-color="#f4f6fa"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0v48" fill="none" stroke="#fff" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#070a11"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <g transform="translate(838 138) scale(.61)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="42">
+    <path d="M45 47 176 273" stroke="url(#blue)"/>
+    <path d="m162 38 140 235" stroke="url(#silver)"/>
+    <path d="m398 48-94 165" stroke="url(#blue)"/>
+    <path d="M398 169h78l46 104" stroke="url(#silver)"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="82" y="102" fill="#7d9eff" font-size="20" font-weight="700" letter-spacing="4">PORTFOLIO / 2026</text>
+    <text x="78" y="280" fill="#f6f8ff" font-size="78" font-weight="720" letter-spacing="-4">Wrandell I. Almeda</text>
+    <text x="82" y="346" fill="#b2bbcc" font-size="31">Technical Support Engineer</text>
+    <text x="82" y="445" fill="#f6f8ff" font-size="24">Reliable systems. Clear support. Practical outcomes.</text>
+    <rect x="82" y="502" width="202" height="4" rx="2" fill="#3874ff"/>
+  </g>
+</svg>
