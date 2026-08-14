@@ -1,0 +1,49 @@
+# Environment & Configuration Files
+private/config.local.php
+private/secret.key
+*.env
+.env.local
+.env.*.local
+
+# Logs
+private/logs/*.log
+private/logs/*.txt
+logs/
+*.log
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.cache
+
+# OS & Editor Artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Uploads (optional - uncomment if uploads should not be tracked)
+# uploads/projects/*
+# uploads/credentials/*
+# !uploads/projects/.gitkeep
+# !uploads/credentials/.gitkeep
+
+# Dependencies (if using Composer in future)
+vendor/
+composer.lock
+
+# Build artifacts (if using build tools in future)
+dist/
+build/
+*.min.css.map
+*.min.js.map
+
+# Database dumps (should never be committed)
+*.sql.dump
+*.sql.backup
+backups/
